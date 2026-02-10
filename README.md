@@ -1,2 +1,2 @@
 # badge-try-2
-Segunda tentativa de merge, para pr em busca da badge pull shark
+Segunda tentativa de Merge, para Pull Request em busca da badge pull shark.
